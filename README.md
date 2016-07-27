@@ -1,2 +1,2 @@
 # hello_world
-my_first_repository
+Hello my name is shawn and I want to learn how to code.
